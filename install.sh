@@ -5,7 +5,7 @@ sudo apt -y update && sudo apt -y upgrade
 
 # Instalar git e clonar o repositório
 sudo apt install -y git
-git clone https://paulohcgs1997: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@github.com/paulohcgs1997/whaticket_2024.git whaticket_shell_saas
+git clone https://paulohcgs1997@github.com/paulohcgs1997/whaticket_2024.git whaticket_shell_saas
 
 # Dar permissão de execução e executar o script
 cd ./whaticket_shell_saas
